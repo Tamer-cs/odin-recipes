@@ -1,0 +1,8 @@
+ul, ol{
+    background-color: rgb(255,0,0,0.6);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color:goldenrod;
+    border:20px;
+
+}
